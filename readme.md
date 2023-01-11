@@ -83,7 +83,7 @@ JWT_SECRET=<jwt_secret>
 JWT_EXPIREIN=14d
 ```
 
-## For users
+## For user
 ```
 MONGO_URI=<mongo_uri>
 MONGO_DATABASE=<mongo_dbname>
