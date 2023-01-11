@@ -1,7 +1,6 @@
-## The node.js snippets
+## The nest.js microservice snippet
 
-
-This nest.js snippet has included the api-gateway , auth, users, and project microservises crud operations.
+This nest.js microservice snippet has included the api-gateway , auth, users, and project microservises crud operations.
 
 ### api-gateway
 
