@@ -17,10 +17,12 @@ Navigate to the [Verify](https://www.twilio.com/console/verify) section to creat
 
 Update the `.env` file in auth microservice with your Twilio credentials.
 
+  ```
   TWILIO_ACCOUNT_SID=<twilio_acc_sid>
   TWILIO_AUTH_TOKEN=<twilio_auth_token>
   TWILIO_VERIFICATION_SERVICE_SID=<twilio_service_sid>
   TWILIO_PHONE_NUMBER=<twilio_phone_number>
+  ```
 ### api-gateway
 
 * transmitting messages between different microservice.
