@@ -13,8 +13,6 @@ This nest.js snippet has included the api-gateway , auth, users, and project mic
 * Send otp request to the number.
 * Verify the sended otp and register the user.
 
-
-
 ### User microservice.
 
 * List all users.
