@@ -9,7 +9,8 @@ This nest.js microservice snippet has included the api-gateway , auth, users, an
 
 ## Auth microservice.
 
-* Login with twilio
+* Login with Phone.
+* Verify Phone (Use the Twilio SDK for this).
 
 ## User microservice.
 
@@ -18,7 +19,7 @@ This nest.js microservice snippet has included the api-gateway , auth, users, an
 * List particular user.
 * Delete user.
 
-## Projects
+## Project microservice.
 
 * Add project
 * List all projects.
