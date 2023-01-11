@@ -23,17 +23,17 @@ Update the `.env` file in auth microservice with your Twilio credentials.
   TWILIO_VERIFICATION_SERVICE_SID=<twilio_service_sid>
   TWILIO_PHONE_NUMBER=<twilio_phone_number>
   ```
-### api-gateway
+## API-gateway
 
 * transmitting messages between different microservice.
 * The api-gateway provides a single endpoint or URL(http://localhost//5000) for the client apps and then internally maps the requests to a group of internal microservices.
 
-### Auth microservice.
+## Auth microservice.
 
 * Send otp request to the number.
 * Verify the sended otp and register the user.
 
-### User microservice.
+## User microservice.
 
 * List all users.
 * Edit user.
