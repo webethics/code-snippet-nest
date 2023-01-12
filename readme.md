@@ -30,6 +30,7 @@ This nest.js microservice snippet has included the api-gateway , auth, users, an
 ## Requirements
  * Node 16
  * Git
+ * Typescript
 
 ## Common setup
 
