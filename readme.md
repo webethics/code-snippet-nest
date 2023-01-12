@@ -4,7 +4,7 @@ This nest.js microservice snippet has included the api-gateway , auth, users, an
 
 ## API-gateway
 
-* transmitting messages between different microservice.
+* Transmitting messages between different microservice.
 * The api-gateway provides a single endpoint or URL(http://localhost//5000) for the client apps and then internally maps the requests to a group of internal microservices.
 
 ## Auth microservice.
